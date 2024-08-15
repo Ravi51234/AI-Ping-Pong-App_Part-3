@@ -1,0 +1,38 @@
+.heading{
+    width:100%;
+    padding:8px;
+}
+
+h1{
+    font-size:27px;
+    display:inline;
+    font-family:monospace;
+}
+
+div button{
+    float:right;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    background:grey;
+    line-height:3;
+    color:white;
+    text-align:center;
+    font-family:monospace;
+    width:100%;
+}
+
+canvas{
+    border:3px solid white;
+    border-radius:20px;
+}
+
+.restart{
+    margin-bottom:50px;
+}
+
+ul{
+    text-align:left;
+}
